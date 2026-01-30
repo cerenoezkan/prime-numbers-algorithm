@@ -19,6 +19,8 @@ and printed as output.
 ---
 
 ## Pseudocode
+
+```plaintext
 START
     NUMBER ← 500
     WHILE NUMBER < 600 DO
